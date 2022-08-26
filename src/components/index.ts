@@ -1,3 +1,4 @@
 export {Layout} from '../components/layout'
-export {CadastroProdutos} from './produtos' 
-export {Input} from './common'
+export {CadastroProdutos, ListagemDeProdutos} from './produtos' 
+export {CadastroCliente} from './clientes' 
+export {Input,InputMoney,InputCPF,InputTelefone, InputDate, Message, Loader} from './common'
